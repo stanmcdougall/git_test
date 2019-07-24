@@ -1,1 +1,2 @@
-Holy Fuck this is my first git project!
+Holy Caramel Corn this is my first git project
+Look out!
